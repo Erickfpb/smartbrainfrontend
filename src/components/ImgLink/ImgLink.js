@@ -4,8 +4,11 @@ import './ImgLink.css'
 const ImgLink = ({ onInputChange, onButtonSubmit }) => {
     return(
     <div>
+        <p className='f5'>
+            {'¡THIS LITTLE BRAIN WILL DETECT A FACE IN YOUR PICTURES!'}
+        </p>
         <p className='f3'>
-            {'THIS LITTLE BRAIN WILL DETECT A FACE IN YOUR PICTURES'}
+            {'Place the "URL" of a picture with a face in the box!'}
         </p>
         <div className='center'>
             <div className='form center pa4 br3 shadow-5'>
