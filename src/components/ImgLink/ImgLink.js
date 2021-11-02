@@ -7,7 +7,7 @@ const ImgLink = ({ onInputChange, onButtonSubmit }) => {
         <p className='f2'>
             {'¡THIS LITTLE BRAIN WILL DETECT A FACE IN YOUR PICTURES!'}
         </p>
-        <p className='f5'>
+        <p className='white f5'>
             {'Place the "URL" of a picture with a face in the box!'}
         </p>
         <div className='center'>
